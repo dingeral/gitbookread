@@ -1,0 +1,23 @@
+{
+    "title": "记录阅读",
+    "description": "备忘录",
+    "author": "dingeral",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+        "github-buttons@2.1.0",
+        "favicon@0.0.2"
+        ],
+
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "dingeral/gitbookread",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+
+    }
+}
